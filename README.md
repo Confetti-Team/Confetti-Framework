@@ -2,3 +2,5 @@
 
 # Confetti-Framework
 Welcome to the Confetti Framework, The Confetti Framework helps Programmers and Engine Developers create Game Engines faster by focusing on the hard and boring parts of Engine Development.
+
+The Framework is empty for now, overtime - We will slowly build up the Framework and we will release a 1.0 for people to use.
